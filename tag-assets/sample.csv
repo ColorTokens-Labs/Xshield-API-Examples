@@ -1,0 +1,3 @@
+assetname, businessValue, application, environment, role, location, owner
+crm-db-1, high, CRM, Production, DB, AWS US East, VenkyR
+crm-db-2, high, CRM, Production, DB, AWS US East, VenkyR

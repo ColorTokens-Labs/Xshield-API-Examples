@@ -1,0 +1,9 @@
+{
+  "tenantId": "",
+  "userId": "",
+  "keyConfig": {
+    "fingerprint": "",
+    "privateKey": "",
+    "passphrase": ""
+  }
+}
